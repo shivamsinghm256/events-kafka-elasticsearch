@@ -25,9 +25,9 @@ A Spring Boot application that consumes **GitHub Events** from Kafka and indexes
 ## ⚙️ Setup & Run
 
 ### 1️⃣ Start Dependencies (Kafka + Elasticsearch + Kibana)
-You can follow the link below. </br>
-For Kafka -> https://kafka.apache.org/quickstart
-For Elastic search -> https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic
+You can follow the links below. </br>
+- For Kafka -> https://kafka.apache.org/quickstart
+- For Elastic search -> https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic
 
 ### 2️⃣ Configure Application
 Edit `src/main/resources/application.properties:`
